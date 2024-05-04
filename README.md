@@ -24,7 +24,7 @@
 
 ###
 
-<p align="left">I'm am from INDIA<br><br>- 🔭 Currently learning advance React JS<br>- 📚 I can tell about React , Firebase , JavaScript , HTML , CSS , Tailwind<br>- ⚡ Reach me here shivamyadav6546@gmail.com</p>
+<p align="left">I'm am from INDIA<br><br>- 🔭 Currently learning advance React JS and Node JS<br>- 📚 I can tell about React , Firebase , JavaScript , HTML , CSS , Tailwind<br>- ⚡ Reach me here shivamyadav6546@gmail.com</p>
 
 ###
 
