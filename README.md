@@ -25,36 +25,6 @@ I enjoy building full-stack web apps, APIs, real-time systems, and media process
 
 ---
 
-## Selected Projects
-(Replace placeholders with links to your repositories)
-- [Project A — MERN App](https://github.com/shivam-yadav2/project-a) — Full-stack app with React, Node, MySQL
-- [Project B — Video Processor](https://github.com/shivam-yadav2/project-b) — FFmpeg-based media pipeline
-- [Project C — Laravel API](https://github.com/shivam-yadav2/project-c) — REST API with MySQL and AWS deployment
-
----
-
-## How to run (example)
-Clone, install and run a typical MERN project:
-```bash
-git clone https://github.com/your-username/your-repo.git
-cd your-repo
-# backend
-cd server
-npm install
-npm run dev
-# frontend
-cd ../client
-npm install
-npm run dev
-```
-
-For FFmpeg processing (example):
-```bash
-ffmpeg -i input.mp4 -c:v libx264 -crf 23 -preset medium output.mp4
-```
-
----
-
 ## Open to
 - Collaborations on full-stack and media projects
 - Freelance/contract work (web apps, APIs, video pipelines)
